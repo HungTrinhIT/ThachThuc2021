@@ -1,0 +1,2622 @@
+[
+    {
+        "stt": 1,
+        "key": "Class implementation",
+        "value": "Class: Không phải struct, từ khóa quan trọng của OOP.\nImplementation: Có interface thì phải làm gì?? Danh từ"
+    },
+    {
+        "stt": 2,
+        "key": "Class name",
+        "value": "Không phải struct, trong OOP\nHawkeye bắn gì?"
+    },
+    {
+        "stt": 3,
+        "key": "Instance",
+        "value": "Khi có một class rồi thì tạo cái gì của class đó??"
+    },
+    {
+        "stt": 4,
+        "key": "Overloading",
+        "value": "Cùng tên hàm nhưng khác tham số thì là gì?"
+    },
+    {
+        "stt": 5,
+        "key": "Operator",
+        "value": " + - * / trong OOP"
+    },
+    {
+        "stt": 6,
+        "key": "Insertion operator",
+        "value": " + - * / trong OOP mà có ký hiệu 2 dấu nhỏ hơn (Toán tử chèn)"
+    },
+    {
+        "stt": 7,
+        "key": "Extraction operator",
+        "value": " + - * / trong OOP mà có ký hiệu 2 dấu lớn hơn (Toán tử trích)"
+    },
+    {
+        "stt": 8,
+        "key": "Basic data type",
+        "value": "Int, float, bool, character là những gì?? (kiểu dữ liệu)\nKhông khó"
+    },
+    {
+        "stt": 9,
+        "key": "Priority queue",
+        "value": "Queue: Không phải stack, FIFO\nPrority: "
+    },
+    {
+        "stt": 10,
+        "key": "Programing Interface",
+        "value": "Một cái trung gian cho phép hai ứng dụng nói chuyện với nhau\nHồi học Android có dùng google map gì để làm?? có 3 kí tự, JSON"
+    },
+    {
+        "stt": 11,
+        "key": "Dynamic array",
+        "value": "Kiểu dữ liệu gồm nhiều phần từ giống nhau, ví dụ a[0], a[1], a[2] mà có thể mở rộng được, dùng con trỏ"
+    },
+    {
+        "stt": 12,
+        "key": "Static array",
+        "value": "Kiểu dữ liệu gồm nhiều phần từ giống nhau, ví dụ a[0], a[1], a[2] mà không thể mở rộng đc"
+    },
+    {
+        "stt": 13,
+        "key": "Read only variable",
+        "value": "ROM là bộ nhớ gì (read only memory) ?? khi mà khai báo int a thì a được gọi là gì??"
+    },
+    {
+        "stt": 14,
+        "key": "Standard template library",
+        "value": "Sẽ Tiến Lên, mấy cái iostream, math trong C++"
+    },
+    {
+        "stt": 15,
+        "key": "Access modifier",
+        "value": "Từ khóa thể hiện quyền để vào một cái gì đó"
+    },
+    {
+        "stt": 16,
+        "key": "Const casting",
+        "value": "Mấy số mà không thể thay đổi ví dụ như Pi được gọi là gì? \nĐang float mà chuyển qua int thì gọi đó là gì"
+    },
+    {
+        "stt": 17,
+        "key": "Contructor",
+        "value": "Hàm gì mà class nào cũng cần có, hàm mà sẽ chạy đầu tiên khi new một đối tượng mới"
+    },
+    {
+        "stt": 18,
+        "key": "Copy contructor",
+        "value": "Hàm mà tạo một đối tượng từ một đối tượng đã có sẵn"
+    },
+    {
+        "stt": 19,
+        "key": "Default contructor",
+        "value": "Hàm gì mà class nào cũng cần có, hàm mà sẽ chạy đầu tiên khi new một đối tượng mới\nNhưng nếu mình không định nghĩa nó thì nó được gọi là gì?"
+    },
+    {
+        "stt": 20,
+        "key": "Descontructor",
+        "value": "Hàm chạy cuối đời của một đối tượng"
+    },
+    {
+        "stt": 21,
+        "key": "Static contructor",
+        "value": "Không phải dynamic, hàm mà chạy đầu mỗi đối tượng"
+    },
+    {
+        "stt": 22,
+        "key": "Dynamic casting",
+        "value": "Không phải static, chuyển từ float qua int thì gọi là gì"
+    },
+    {
+        "stt": 23,
+        "key": "Abstract",
+        "value": "Không phải interface, trong môn OOP"
+    },
+    {
+        "stt": 24,
+        "key": "Method",
+        "value": "Function mà trong OOP thì hay gọi là gì?"
+    },
+    {
+        "stt": 25,
+        "key": "Inheritance",
+        "value": "Một tính chất của OOP mà có từ khóa extend"
+    },
+    {
+        "stt": 26,
+        "key": "Dequeue",
+        "value": "Không phải stack, lấy một phần tử ra khỏi nó"
+    },
+    {
+        "stt": 27,
+        "key": "Enqueue",
+        "value": "Không phải stack, thêm một phần tử vào nó"
+    },
+    {
+        "stt": 28,
+        "key": "Multiple inheritance",
+        "value": "Extend nhiều class thì gọi là gì"
+    },
+    {
+        "stt": 29,
+        "key": "Stream",
+        "value": "khi mà viết C++ thì thường Include io gì"
+    },
+    {
+        "stt": 30,
+        "key": "Output device",
+        "value": "Mấy cái như màn hình, loa,.. được gọi là gì"
+    },
+    {
+        "stt": 31,
+        "key": "End of file"
+    },
+    {
+        "stt": 32,
+        "key": "Design pattern",
+        "value": "Trong OOP, mấy cái như Singleton, Builder,.. là gì"
+    },
+    {
+        "stt": 33,
+        "key": "Plain text",
+        "value": "file đuôi text thì nó lưu cái gì?"
+    },
+    {
+        "stt": 34,
+        "key": "Raw data",
+        "value": "4.0 có cái gì mà Big đầu tiên, cái đó chưa qua chỉnh sửa gì ( hoặc có thể nói file CR2)"
+    },
+    {
+        "stt": 35,
+        "key": "Interpreter",
+        "value": "Gần giống compiler, nhưng dùng cho ngôn ngữ mà chạy đến dòng nào thì mới chuyển cái đó thành mã máy"
+    },
+    {
+        "stt": 36,
+        "key": "Encapsulation",
+        "value": "Một tính chất của OOP, private, protected"
+    },
+    {
+        "stt": 37,
+        "key": "Polymorphism",
+        "value": "Một tính chất của OOP, khi một tác vụ được thực hiện theo nhiều cách khác nhau"
+    },
+    {
+        "stt": 38,
+        "key": "Abstraction",
+        "value": "Một tính chất của OOP, không có thật"
+    },
+    {
+        "stt": 39,
+        "key": "Stack unwinding",
+        "value": "Kết thúc tại vị trí đang xử lí và quay lui lại lời gọi hàm"
+    },
+    {
+        "stt": 40,
+        "key": "Exception handling",
+        "value": "Một cơ chế giúp dễ dàng xử lý các trường hợp, tình huống lỗi mà chương trình gặp phải trong quá trình thực thi"
+    },
+    {
+        "stt": 41,
+        "key": "Terminate",
+        "value": "Khi mà chương trinh bị lỗi mà không được xử lí thì nó sẽ bị gì"
+    },
+    {
+        "stt": 42,
+        "key": "Supercomputer"
+    },
+    {
+        "stt": 43,
+        "key": "Microprocessor",
+        "value": "Intel core i7 được gọi là gì?"
+    },
+    {
+        "stt": 44,
+        "key": "Hard Disk Drive",
+        "value": "Không phải SSD, dùng để lưu trữ"
+    },
+    {
+        "stt": 45,
+        "key": "Read Only Memory",
+        "value": "Không phải RAM"
+    },
+    {
+        "stt": 46,
+        "key": "Solid State Drive",
+        "value": "Nhanh hơn HDD, dùng để lưu trữ"
+    },
+    {
+        "stt": 47,
+        "key": "Optical disk",
+        "value": "DVC, CD"
+    },
+    {
+        "stt": 48,
+        "key": "Machine language",
+        "value": 101010101
+    },
+    {
+        "stt": 49,
+        "key": "Operating system",
+        "value": "Win, MAC, Android??"
+    },
+    {
+        "stt": 50,
+        "key": "Device drivers",
+        "value": "Cái mà HDH đùng dể giao tiếp với phần cứng"
+    },
+    {
+        "stt": 51,
+        "key": "Open-source software",
+        "value": "Nhập môn công nghệ gì học ở kì 1, cái đó mà public cho mọi người thay đổi, cải tiến nó"
+    },
+    {
+        "stt": 52,
+        "key": "RAM",
+        "value": "Random access memory - Bộ nhớ truy xuất ngẫu nhiên  - Lưu trữ tạm thời - nhanh",
+        "note": "Khi diễn tả: Không phải ROM"
+    },
+    {
+        "stt": 53,
+        "key": "ROM",
+        "value": "Read only memory - CHỈ ĐỌC - Lưu trữ dữ liệu kể cả khi tắt máy - Load dữ liệu khi start máy tính - chậm",
+        "note": "Khi diễn tả: Không phải RAM"
+    },
+    {
+        "stt": 54,
+        "key": "HDD",
+        "value": "Hard disk drive",
+        "note": "Không phải SSD"
+    },
+    {
+        "stt": 55,
+        "key": "SSD",
+        "value": "Solid State Drive",
+        "note": "Không phải HDD"
+    },
+    {
+        "stt": 56,
+        "key": "Transistor",
+        "value": "Thành phần cấu tạo nên Ram , cung cấp nguồn ổn định cho RAM"
+    },
+    {
+        "stt": 57,
+        "key": "Floating point",
+        "value": "Đồ án 1 kiến trúc máy tính -> Phần thứ 2  Tập số thực"
+    },
+    {
+        "stt": "58",
+        "key": "Overflow",
+        "value": "Tràn số - Đổ nước vô ly bị tràn ra"
+    },
+    {
+        "stt": "59",
+        "key": "ASCII",
+        "value": "American srandard code for information Interchange - bảng mả có 256 ký tự kể cả special character",
+        "note": "Cái gì có 256 ký tự"
+    },
+    {
+        "stt": "60",
+        "key": "Process",
+        "value": "Tiến trìng - Không phải Thread"
+    },
+    {
+        "stt": "61",
+        "key": "Thread",
+        "value": "Không phải Process"
+    },
+    {
+        "stt": "62",
+        "key": "Scope",
+        "value": "Phạm vi code giữa hai dấu ngoặc nhọn là gì { }"
+    },
+    {
+        "stt": "63",
+        "key": "Regular Expression",
+        "value": "Các hàm validation form đăng nhập đăng ký cần phải làm gì"
+    },
+    {
+        "stt": "64",
+        "key": "Global variable",
+        "value": "biến toàn cục - khai báo mà dùng được bất cứ đầu trong source code"
+    },
+    {
+        "stt": "65",
+        "key": "Local variable",
+        "value": "biến toàn cục - chỉ dùng trong 1 scope code nhất định"
+    },
+    {
+        "stt": "66",
+        "key": "IDE",
+        "value": "Intergrated Developement Enviroment - Code trên cái gì, muốn code cần phải có gì "
+    },
+    {
+        "stt": "67",
+        "key": "Test case",
+        "value": "Khi developer code xong thi đưa source code cho ai :)))"
+    },
+    {
+        "stt": "68",
+        "key": "Single Page Application",
+        "value": "Concept front end mới nổi được thể qua các framework như Angular, VueJS , hay library ReactJS"
+    },
+    {
+        "stt": "69",
+        "key": "Artificial Intelligence",
+        "value": "cái gì là xu hướng công nghệ trong thời đại 4.0 ",
+        "note": "Không phải Machine learning , DeepLearning                                     Ghi chú: AI> MC> DL                                             "
+    },
+    {
+        "stt": "70",
+        "key": "Supervised-learning",
+        "value": "Học giám sát : KNN , netural network, deeplearning.   Siêu nhân đi học",
+        "note": "Deeplearning là mô hình học có giám sát"
+    },
+    {
+        "stt": "71",
+        "key": "Unsupervised-learning",
+        "value": "k-means, hierachical clustering"
+    },
+    {
+        "stt": "72",
+        "key": "ALGORITHM COMPLEXITY",
+        "value": "Độ phức tạp của thuật toán - Diễn giải bằng cách nêu ra O, Theta, Omega , BigO thầy Tùng"
+    },
+    {
+        "stt": "73",
+        "key": "Binary search",
+        "value": "Không phải Sort  , mà  lại chặt đôi nhiều lần T(n)=O(nlogn) (ava) , T(n)=O(1) khi key nằm ngay giữa"
+    },
+    {
+        "stt": "74",
+        "key": "Token"
+    },
+    {
+        "stt": "75",
+        "key": "RSA",
+        "value": "Môt thuật toán mã hóa nổi tiếng được phát triển bởi Rivest–Shamir–Adleman. Là 1 trong những thuật toán mã hóa công khai đầu tiên . ",
+        "note": "Dùng skill lấy chữ đầu ví dụ: \"Rồi sẽ ăn\" :))"
+    },
+    {
+        "stt": "76",
+        "key": "Application Programming Interface",
+        "value": "API: trend web hiện đại web API => Axios , ajax,.. dùng để call cái gì"
+    },
+    {
+        "stt": "77",
+        "key": "HyperText  Markup Language",
+        "value": "HTML",
+        "note": "Môn web học gì đầu tiên"
+    },
+    {
+        "stt": "78",
+        "key": "Cascading Style Sheets",
+        "value": "CSS ",
+        "note": "Sau HTML học gì"
+    },
+    {
+        "stt": "79",
+        "key": "JavaScript",
+        "value": "JS",
+        "note": "MÔn web học gì sau HTML và CSS"
+    },
+    {
+        "stt": "80",
+        "key": "Hash Table",
+        "value": "Cấu trúc dữ liệu bảng băm",
+        "note": "Cái gì mà tìm kiếm T(n)=O(1)"
+    },
+    {
+        "stt": "81",
+        "key": "Segment Tree",
+        "value": "Cây phân đoạn",
+        "note": "Không phải cây nhị phân"
+    },
+    {
+        "stt": "82",
+        "key": "Linked Lists",
+        "value": "Danh sách liên kết",
+        "note": "Dùng để thể hiện mảng động. Cái mà Tuấn Đạt sử dụng làm đồ án thư viện năm 1"
+    },
+    {
+        "stt": "83",
+        "key": "BlockChain",
+        "value": "Ứng dụng vào công nghệ tiền ảo, bảo mật theo khối anh Lê Yên Thanh từng làm"
+    },
+    {
+        "stt": "84",
+        "key": "Data mining",
+        "value": "Khai phá dữ liệu ."
+    },
+    {
+        "stt": "85",
+        "key": "Optical Character Recognition",
+        "value": "OCR : Nhận dạng ký tự quang học, là loại phần mềm máy tính được tạo ra để chuyển các hình ảnh của chữ viết tay hoặc chữ đánh máy thành các văn bản tài liệu. ",
+        "note": "Dùng skill chữ đầu Ong Cho Rằng"
+    },
+    {
+        "stt": "86",
+        "key": "Unit Test",
+        "note": "2 chữ : 1. Đơn vị   2. học xong phải làm gì -> Kiểm tra-> Test"
+    },
+    {
+        "stt": "87",
+        "key": "Java Virtual Machine",
+        "value": "JVM : bytecode-> JVM -> HĐH ",
+        "note": "Dùng skill chữ đầu."
+    },
+    {
+        "stt": "88",
+        "key": "Macro"
+    },
+    {
+        "stt": "89",
+        "key": "cursor",
+        "value": "Trong css có thuộc tính nào mà ghi ghê chuột vô button hiện ra Bàn Tay. "
+    },
+    {
+        "stt": "90",
+        "key": "Typedef",
+        "value": "Từ khóa trong C được dùng để đổi tên kiểu dữ liệu. Giống như từ khóa as trong Javascript"
+    },
+    {
+        "stt": "91",
+        "key": "Crytography",
+        "value": "Mật mã học: Miêu tả : lĩnh vực mà tụi hacker làm gọi là gì"
+    },
+    {
+        "stt": "92",
+        "key": "Material Design",
+        "value": "Một ngôn ngữ mới được phát triển bởi Google - design như bioostrap gọi là gì?"
+    },
+    {
+        "stt": "93",
+        "key": " Speech Recognition",
+        "value": "Siri ứng dụng công nghệ có tên gọi là gì"
+    },
+    {
+        "stt": "94",
+        "key": "Network access point"
+    },
+    {
+        "stt": "95",
+        "key": "File Allocation table"
+    },
+    {
+        "stt": "96",
+        "key": "Debian",
+        "value": "Hệ điều hành toàn cầu"
+    },
+    {
+        "stt": "97",
+        "key": "Cookie ",
+        "value": "Ăn được trên Google Chrome"
+    },
+    {
+        "stt": "98",
+        "key": "Hotspot"
+    },
+    {
+        "stt": "99",
+        "key": "Gigabyte",
+        "value": "Đơn vị đo độ lớn dữ liệu, cứ đọc hết ra"
+    },
+    {
+        "stt": "100",
+        "key": "HyperLink",
+        "value": "Trong thẻ <a> có chứa cái gì mà click nó chuyển qua trang khác"
+    },
+    {
+        "stt": "101",
+        "key": "Spam email"
+    },
+    {
+        "stt": "102",
+        "key": "Binary Number"
+    },
+    {
+        "stt": "103",
+        "key": "Data warehouse",
+        "value": "Thông tin lưu trong 1 cái nhà"
+    },
+    {
+        "stt": "104",
+        "key": "Data Scientist",
+        "value": "Ngành học sexy nhất thế kỷ 21"
+    },
+    {
+        "stt": "105",
+        "key": "Data Analyst",
+        "value": "Đào email , đào số điện thoại => tổng hợp thêm xóa sửa các kiểu "
+    },
+    {
+        "stt": "106",
+        "key": "Backup"
+    },
+    {
+        "stt": "107",
+        "key": "Paging",
+        "value": "Kỹ thuật trong môn hệ điều hành"
+    },
+    {
+        "stt": "108",
+        "key": "Host Name"
+    },
+    {
+        "stt": "109",
+        "key": "Backtracking",
+        "value": "Thuật toán mà đang đi xong rồi đi ngược lại -> Bài toán xếp hậu, mã đi tuần học trong môn KTLT"
+    },
+    {
+        "stt": "110",
+        "key": "Windows server 2016"
+    },
+    {
+        "stt": "111",
+        "key": "FTP - File Transfer Protocol",
+        "value": "Giao thức truyền file dựa trên TCP, upload lên host, server với cổng mặc định là 21"
+    },
+    {
+        "stt": "112",
+        "key": "Traceroute",
+        "value": "Là chương tŕnh cho phép bạn xác định được đường đi của các gói tin (packet) từ máy bạn đến hệ thống đích trên mạng Internet"
+    },
+    {
+        "stt": "113",
+        "key": "ICMP - Internet Control Message Protocol",
+        "value": "giao thức xử lý các thông báo trạng thái cho IP, thông báo các lỗi xảy ra trong quá tŕnh truyền đi của các gói dữ liệu trên mạng"
+    },
+    {
+        "stt": "114",
+        "key": "Telnet",
+        "value": "chương tŕnh terminal đầu cuối"
+    },
+    {
+        "stt": "115",
+        "key": "DNS - Domain Name System",
+        "value": "chuyển hostname bằng các chữ cái thành các chữ số tương ứng và ngược lại"
+    },
+    {
+        "stt": "116",
+        "key": "SMTP - Simple Message Transfer Protocol",
+        "value": "dùng để gửi thư thông qua một chương tŕnh Sendmail, phổ biến nhưng kém an toàn"
+    },
+    {
+        "stt": "117",
+        "key": "CGI - Common Gateway Interface",
+        "value": "khởi tạo giao tiếp giữa server và chương tŕnh nhờ các định dạng đặc tả thông tin"
+    },
+    {
+        "stt": "118",
+        "key": "Shell",
+        "value": "chương tŕnh giữa người dùng với nhân Linux"
+    },
+    {
+        "stt": "119",
+        "key": "SYN - The Synchronous Idle Character",
+        "value": "TCP bắt tay 3 bước, trả lời tín hiệu ACK (Acknowledgement)"
+    },
+    {
+        "stt": "120",
+        "key": "Cookies",
+        "value": "Dữ liệu nằm trên trình duyệt, lưu trữ thông tin người dùng"
+    },
+    {
+        "stt": "121",
+        "key": "LAN - Local Area Network",
+        "value": "hệ thống các máy tính và thiết bị ngoại vi được liên kết với nhau"
+    },
+    {
+        "stt": "122",
+        "key": "Vulnerability",
+        "value": "một vùng, điểm dễ bị tổn thương trong hệ thống theo một yêu cầu được phát hiện ra, vùng dễ tấn công và ít được bảo vệ"
+    },
+    {
+        "stt": "123",
+        "key": "Anonymous"
+    },
+    {
+        "stt": "124",
+        "key": "IIS - Internet Information Server",
+        "value": "WebServer của Microsoft"
+    },
+    {
+        "stt": "125",
+        "key": "Account",
+        "value": "username + password"
+    },
+    {
+        "stt": "126",
+        "key": "Port"
+    },
+    {
+        "stt": "127",
+        "key": "Compile"
+    },
+    {
+        "stt": "128",
+        "key": "Database"
+    },
+    {
+        "stt": "129",
+        "key": "ISP - Internet Service Provider"
+    },
+    {
+        "stt": "130",
+        "key": "TCP/IP",
+        "value": "gói tin kèm header"
+    },
+    {
+        "stt": "131",
+        "key": "SSI - Server Side Includes",
+        "value": "các chỉ dẫn được đặt trong các file html"
+    },
+    {
+        "stt": "132",
+        "key": "MAC - Media Access Control"
+    },
+    {
+        "stt": "133",
+        "key": "DHCP - Dynamic Host Configuration Protocol"
+    },
+    {
+        "stt": "134",
+        "key": "URL - Uniform Resource Locator"
+    },
+    {
+        "stt": "135",
+        "key": "HTML - Hyper Text Markup Language"
+    },
+    {
+        "stt": "136",
+        "key": "SQL Injection",
+        "value": "tấn công trang web, chèn các mă SQL query/command vào input trước khi chuyển cho ứng dụng web xử lí"
+    },
+    {
+        "stt": "137",
+        "key": "XSS - Cross site scripting",
+        "value": "Hacker sẽ dụ nạn nhân đến trang web của ḿnh bằng cách đưa một siêu liên kết (hyperlink)"
+    },
+    {
+        "stt": "138",
+        "key": "Broadcast",
+        "value": "là phương pháp truyền dữ liệu từ 1 máy tới tất cả các máy còn lại trong 1 subnet (mạng con) hay toàn bộ mạng LAN"
+    },
+    {
+        "stt": "139",
+        "key": "VLAN",
+        "value": "là mạng LAN ảo , được tạo ra bởi Switch , nó là 1 phần (nhỏ hơn) của mạng LAN"
+    },
+    {
+        "stt": "140",
+        "key": "MAC - Media Access Control",
+        "value": "Địa chỉ vật lý"
+    },
+    {
+        "stt": "141",
+        "key": "data"
+    },
+    {
+        "stt": "142",
+        "key": "database",
+        "note": "môn cô huệ, thư - khái niệm nền tảng"
+    },
+    {
+        "stt": "143",
+        "key": "database management system",
+        "note": "môn cô huệ, thư - là phần mền, giúp gom lại, quản lý"
+    },
+    {
+        "stt": "144",
+        "key": "database administrator - DBA",
+        "value": "quản trị viên csdl",
+        "note": "tựa như người quản lý, giám sát - \" ?? \""
+    },
+    {
+        "stt": "145",
+        "key": "relation schema",
+        "value": "lược đồ quan hệ R(A1,A2,A3 ,…) ",
+        "note": "không phải model , tập các thuộc tính"
+    },
+    {
+        "stt": "146",
+        "key": "database schema",
+        "value": "lược đồ csdl",
+        "note": "không phải model, môn cô huệ"
+    },
+    {
+        "stt": "147",
+        "key": "data model",
+        "value": "mô hình dữ liệu",
+        "note": "không phải schema, chứa các giá trị"
+    },
+    {
+        "stt": "148",
+        "key": "relational data model",
+        "value": "mô hình quan hệ",
+        "note": "không phải schema, bao gồm thưc thể và mối …."
+    },
+    {
+        "stt": "149",
+        "key": "entity relationship model",
+        "value": "mô hình quan hệ - thực thể",
+        "note": "không phải schema, học nhìu nhất trong môn cơ huệ, nhìu hình khối"
+    },
+    {
+        "stt": "150",
+        "key": "cardinality",
+        "value": "bản số ",
+        "note": "các cặp chỉ số trong mô hình ER"
+    },
+    {
+        "stt": "151",
+        "key": "relationship set = relationship type",
+        "value": "loại mối kết hợp ",
+        "note": "đường nối giữa 2 thực thể trong mô hình ER, 2 từ"
+    },
+    {
+        "stt": "152",
+        "key": "super key",
+        "value": "siêu khóa ",
+        "note": "cao hơn chính"
+    },
+    {
+        "stt": "153",
+        "key": "primary key",
+        "value": "khóa chính",
+        "note": "bé hơn super"
+    },
+    {
+        "stt": "154",
+        "key": "foreign key",
+        "value": "khóa ngoại ",
+        "note": "bé hơn chính"
+    },
+    {
+        "stt": "155",
+        "key": "tuple",
+        "value": "bộ",
+        "note": "mỗi dòng dữ liệu trong bảng"
+    },
+    {
+        "stt": "156",
+        "key": "domain",
+        "value": "miền giá trị ",
+        "note": "tập số thực hay tập số nguyên"
+    },
+    {
+        "stt": "157",
+        "key": "relationship",
+        "value": "mối kết hợp ",
+        "note": "đường nối giữa 2 thực thể trong mô hình ER"
+    },
+    {
+        "stt": "158",
+        "key": "attribute",
+        "value": "thuộc tính",
+        "note": "tiêu đề của bảng"
+    },
+    {
+        "stt": "159",
+        "key": "entity type = enity set",
+        "value": "loại thực thể ",
+        "note": "hình chữ nhật trong mô hình ER , 2 từ"
+    },
+    {
+        "stt": "160",
+        "key": "entities",
+        "value": "thực thể ",
+        "note": "hình chữ nhật trong mô hình ER"
+    },
+    {
+        "stt": "161",
+        "key": "database instance = database status",
+        "value": "thể hiện csdl",
+        "note": "thể hiện ra được của môn cô huệ"
+    },
+    {
+        "stt": "162",
+        "key": "data definition language - DDL",
+        "value": "ngôn ngữ định nghĩa dữ liệu",
+        "note": "Skill : đi đâu lâu"
+    },
+    {
+        "stt": "163",
+        "key": "data manipulation language - DML",
+        "value": "ngôn ngữ thao tác dữ liệu",
+        "note": "Skill : đi mê linh"
+    },
+    {
+        "stt": "164",
+        "key": "storage definition language - SDL",
+        "value": "ngôn ngữ lưu trữ dữ liệu",
+        "note": "Skill : sao đi lâu"
+    },
+    {
+        "stt": "165",
+        "key": "view definition language - VDL",
+        "value": "ngôn ngữ định nghĩa khung nhìn",
+        "note": "Skill : vậy đi liền"
+    },
+    {
+        "stt": "166",
+        "key": "query language - QL",
+        "value": "ngôn ngữ truy vấn ",
+        "note": "tựa như C, nhưng dùng trong môn cô huệ"
+    },
+    {
+        "stt": "167",
+        "key": "relational algebra",
+        "value": "đại số quan hệ ",
+        "note": "truy vấn - như + - * / …"
+    },
+    {
+        "stt": "168",
+        "key": "relational calculus",
+        "value": "phép tính quan hệ ",
+        "note": "truy vấn, phức tạp , ký hiệu như toán rời rạc"
+    },
+    {
+        "stt": "169",
+        "key": "Tuple Relational Calculus - TRC",
+        "value": "phép tính quan hệ trên bộ ",
+        "note": "truy vấn, phức tạp, ký hiệu như trr, không dùng cho miền"
+    },
+    {
+        "stt": "170",
+        "key": "domain relational calculus - DRC",
+        "value": "phép tính quan hệ trên miền",
+        "note": "truy vấn, phức tạp, ký hiệu như trr, không dùng cho bộ"
+    },
+    {
+        "stt": "171",
+        "key": "SQL - structured query language",
+        "note": "tựa như C, dùng để lọc dữ liệu"
+    },
+    {
+        "stt": "172",
+        "key": "intergrity constraints",
+        "value": "ràng buộc toàn vẹn",
+        "note": "1 điều kiện quan trọng trong csdl"
+    },
+    {
+        "stt": "173",
+        "key": "assertion",
+        "note": "trong ràng buộc,luôn cần đảm bảo đúng"
+    },
+    {
+        "stt": "174",
+        "key": "trigger",
+        "note": "trong ràng buộc, sẽ run khi xảy ra biến cố"
+    },
+    {
+        "stt": "175",
+        "key": "transaction",
+        "value": "giao tác",
+        "note": "tập các lệnh, không phải assertion hay trigger"
+    },
+    {
+        "stt": "176",
+        "key": "stored procedure",
+        "value": "thủ tục lưu trữ nội ",
+        "note": "tựa như function trong csdl"
+    },
+    {
+        "stt": "177",
+        "key": "User Story"
+    },
+    {
+        "stt": "178",
+        "key": "V Model"
+    },
+    {
+        "stt": "179",
+        "key": "Version Control System"
+    },
+    {
+        "stt": "180",
+        "key": "VMware"
+    },
+    {
+        "stt": "181",
+        "key": "Waterfall Model"
+    },
+    {
+        "stt": "182",
+        "key": "Web Services"
+    },
+    {
+        "stt": "183",
+        "key": "Windows Forms"
+    },
+    {
+        "stt": "184",
+        "key": "Windows Presentation Foundation"
+    },
+    {
+        "stt": "185",
+        "key": "Wireframe"
+    },
+    {
+        "stt": "186",
+        "key": "Workflow"
+    },
+    {
+        "stt": "187",
+        "key": "Single-responsibility Principle",
+        "value": "Nguyên lý SOLID, Một class chỉ nên giữ 1 trách nhiệm duy nhất"
+    },
+    {
+        "stt": "188",
+        "key": "Open/closed principle",
+        "value": "Nguyên lý SOLID, Có thể thoải mái mở rộng 1 class, nhưng không được sửa đổi bên trong class đó"
+    },
+    {
+        "stt": "189",
+        "key": "Liskov Substitution Principle",
+        "value": "Nguyên lý SOLID, Trong một chương trình, các object của class con có thể thay thế class cha mà không làm thay đổi tính đúng đắn của chương trình"
+    },
+    {
+        "stt": "190",
+        "key": "Interface segregation principle",
+        "value": "Nguyên lý SOLID, Thay vì dùng 1 interface lớn, ta nên tách thành nhiều interface nhỏ, với nhiều mục đích cụ thể"
+    },
+    {
+        "stt": "191",
+        "key": "Dependency inversion principle",
+        "value": "Nguyên lý SOLID, Interface (abstraction) không nên phụ thuộc vào chi tiết, mà ngược lại"
+    },
+    {
+        "stt": "192",
+        "key": "macro",
+        "value": "1 đoạn code dài muốn ghi ngắn, chỉ những hàm được viết ở phần Preprocessor"
+    },
+    {
+        "stt": "193",
+        "key": "protected",
+        "value": "ko phải public hay private"
+    },
+    {
+        "stt": "194",
+        "key": "data flow diagram",
+        "value": "if else là để …. + UML là gì",
+        "note": "flow=sông suối, data = sách vở"
+    },
+    {
+        "stt": "195",
+        "key": "interface",
+        "value": "trong java, chỉ cái mặt, user …."
+    },
+    {
+        "stt": "196",
+        "key": "electronic book",
+        "value": "trên smart phone, máy tính, bla bla, thay thế việc lật lật thủ công ??",
+        "undefined": "kindle"
+    },
+    {
+        "stt": "197",
+        "key": "windows server 2016",
+        "value": "hđh của microsoft, ko phải client, 2020 -4"
+    },
+    {
+        "stt": "198",
+        "key": "chatbox",
+        "value": "thường thấy trên mess, skype,… tự động trả lời"
+    },
+    {
+        "stt": "199",
+        "key": "stackholder",
+        "value": "nhân vật từng hc trong nmcnpm, cá nhân tổ chức có ảnh hưởng đến dự án"
+    },
+    {
+        "stt": "200",
+        "key": "firewall",
+        "value": "bị chặn lại, ko phải nc"
+    },
+    {
+        "stt": "201",
+        "key": "classification",
+        "value": "trong machine learning"
+    },
+    {
+        "stt": "202",
+        "key": "client",
+        "value": "ko phải server"
+    },
+    {
+        "stt": "203",
+        "key": "trojan",
+        "value": "1 loại virus"
+    },
+    {
+        "stt": "204",
+        "key": "static",
+        "value": "ko phải động (dynamic)"
+    },
+    {
+        "stt": "205",
+        "key": "test plan",
+        "note": "plaintext"
+    },
+    {
+        "stt": "206",
+        "key": "biginteger",
+        "value": "đồ án kiến trúc máy tính, song song với số chấm động"
+    },
+    {
+        "stt": "207",
+        "key": "backup data",
+        "value": "sao lưu, giúp khôi phục …."
+    },
+    {
+        "stt": "208",
+        "key": "Computer-Aided Software Engineering",
+        "value": "Các công cụ được sử dụng để thiết kế và phát triển các phần mềm với sự trợ giúp của máy tính\nMôn thầy Vũ"
+    },
+    {
+        "stt": "209",
+        "key": "Firebase Cloud Messaging",
+        "value": "Một dịch vụ push thông báo đa nền tảng của GG, môn lập trình di động có dùng"
+    },
+    {
+        "stt": "210",
+        "key": "Prototype"
+    },
+    {
+        "stt": "211",
+        "key": "Google now",
+        "value": "Công cụ tìm kiếm lớn nhất mà sử dụng giọng nói"
+    },
+    {
+        "stt": "212",
+        "key": "Radix sort",
+        "value": "Không phải search, chỉ dùng cho số nguyên"
+    },
+    {
+        "stt": "213",
+        "key": "Complexity",
+        "value": "Big O"
+    },
+    {
+        "stt": "214",
+        "key": "Euler",
+        "value": "Không phải Hamilton"
+    },
+    {
+        "stt": "215",
+        "key": "Monitor",
+        "value": "Thiết bị dùng để hiển thị"
+    },
+    {
+        "stt": "216",
+        "key": "Projector",
+        "value": "Thiết bị dùng chiếu slide"
+    },
+    {
+        "stt": "217",
+        "key": "Heap sort",
+        "value": "Không phải search, phải vun lại"
+    },
+    {
+        "stt": "218",
+        "key": "Galaxy fold",
+        "value": "Điện thoại của samsung mà gập màn hình lại được"
+    },
+    {
+        "stt": "219",
+        "key": "Feature matching",
+        "value": "Dev hay nói câu không phải bug mà đó là... so sánh hình ảnh này với hình ảnh kia"
+    },
+    {
+        "stt": "220",
+        "key": "Deep first search",
+        "value": "Không phải sort, không phải theo chiều rộng"
+    },
+    {
+        "stt": "221",
+        "key": "Breadth first search",
+        "value": "Không phải sort, không phải theo chiều sâu"
+    },
+    {
+        "stt": "222",
+        "key": "Dynamic host configuration protocol",
+        "value": "Tự động cấp phát IP"
+    },
+    {
+        "stt": "223",
+        "key": "Track",
+        "value": "Chứa nhiều sector"
+    },
+    {
+        "stt": "224",
+        "key": "Sector",
+        "value": "Nhỏ hơn track"
+    },
+    {
+        "stt": "225",
+        "key": "Overload",
+        "value": "Method cùng tên, nhưng khác tham số"
+    },
+    {
+        "stt": "226",
+        "key": "Notebook"
+    },
+    {
+        "stt": "227",
+        "key": "Pop"
+    },
+    {
+        "stt": "228",
+        "key": "Floyd"
+    },
+    {
+        "stt": "229",
+        "key": "Buffer",
+        "note": "Buffalo"
+    },
+    {
+        "stt": "230",
+        "key": "Physical layer"
+    },
+    {
+        "stt": "231",
+        "key": "Google Chrome"
+    },
+    {
+        "stt": "232",
+        "key": "Cloud Computing"
+    },
+    {
+        "stt": "233",
+        "key": "Abstract data type"
+    },
+    {
+        "stt": "234",
+        "key": "Greedy Algorithm"
+    },
+    {
+        "stt": "235",
+        "key": "Viber"
+    },
+    {
+        "stt": "236",
+        "key": "Keypad"
+    },
+    {
+        "stt": "237",
+        "key": "Cylinder",
+        "value": "là tập các track có cùng bán kính (cùng số hiệu) trên tất cả các mặt"
+    },
+    {
+        "stt": "238",
+        "key": "Instagram"
+    },
+    {
+        "stt": "239",
+        "key": "Array index"
+    },
+    {
+        "stt": "240",
+        "key": "Touchscreen"
+    },
+    {
+        "stt": "241",
+        "key": "Blob detection"
+    },
+    {
+        "stt": "242",
+        "key": "Graphical User Interface"
+    },
+    {
+        "key": "MAN - Metropolean Area Network"
+    },
+    {
+        "key": "Bandwidth",
+        "value": "Băng thông - Đơn vị tính: bit/s (bps), Mbps, Gbps"
+    },
+    {
+        "key": "Throughput",
+        "value": "Thông lượng"
+    },
+    {
+        "key": "transmission delay",
+        "value": "Trễ do tốc độ truyền"
+    },
+    {
+        "key": "Network Interface Card",
+        "value": "Là thiết bị chuyển đổi tín hiệu máy tính thành tín hiệu trên phương tiện truyền dẫn và ngược lại (Card mạng)"
+    },
+    {
+        "key": "BitLocker",
+        "value": "Dùng mã hoá dữ liệu win 10"
+    },
+    {
+        "key": "Encrypt"
+    },
+    {
+        "key": "Unity"
+    },
+    {
+        "stt": "Bảng A",
+        "key": "Design pattern",
+        "value": "mấy cái singleton, builder, template method,..."
+    },
+    {
+        "key": "Skype",
+        "value": "Cái mà để video call của microsoft, fan sơn tùng"
+    },
+    {
+        "key": "Bluetooth",
+        "value": "Không phải NFC"
+    },
+    {
+        "key": "Buffer",
+        "value": "Con trâu"
+    },
+    {
+        "key": "Index",
+        "value": "Trong mảng, mấy số 0 1 2 3 4 đc gọi là gì"
+    },
+    {
+        "key": "Torrent",
+        "value": "Cái dùng để tải file nặng xuống"
+    },
+    {
+        "key": "End of File",
+        "value": "While not cái gì để đọc txt"
+    },
+    {
+        "key": "pseudo code"
+    },
+    {
+        "key": "Password",
+        "value": "Khi đăng nhập thì nhập username rồi nhập cái gì nữa"
+    },
+    {
+        "key": "Click",
+        "value": "Hoạt động mà ấn vào con chuột đc gọi là gì?"
+    },
+    {
+        "key": "Typedef",
+        "value": "Trong C++ không dùng const thì dùng cái gì?"
+    },
+    {
+        "key": "Nitendo",
+        "value": "Hãng game của của Nhật Bản"
+    },
+    {
+        "key": "Data link",
+        "value": "Tầng bên trên tầng physical"
+    },
+    {
+        "key": "Admin",
+        "value": "Người có quyền cao nhất trong hệ thống"
+    },
+    {
+        "key": "Quick sort",
+        "value": "Không phải search, O(nlogn) trường hợp xấu nhất O(n^2)"
+    },
+    {
+        "key": "Cookie ",
+        "value": "Cái gì ăn đc trên browser"
+    },
+    {
+        "key": "Cortana",
+        "value": "Trợ lí ảo của Windows"
+    },
+    {
+        "key": "Framework",
+        "value": "Cao hơn library"
+    },
+    {
+        "key": "Unikey",
+        "value": "Cái để gõ tiếng Việt"
+    },
+    {
+        "key": "Operator",
+        "value": "= - * / gọi chung là gì"
+    },
+    {
+        "key": "Queue",
+        "value": "Không phải stack"
+    },
+    {
+        "key": "Red-black tree",
+        "value": "Cái gì có lá? Duy mạnh có bài kiếp gì?"
+    },
+    {
+        "key": "Keyboard",
+        "value": "Tương tự với chuột, để nhập"
+    },
+    {
+        "key": "Data structure",
+        "value": "Môn học kì 1 năm 2, danh sách liên kết, stack, queue"
+    },
+    {
+        "key": "Router",
+        "value": "1 thiết bị mạng"
+    },
+    {
+        "key": "Touchscreen",
+        "value": "Không có chuột thì dùng cái gì ..pad, dùng cái gì để hiển thị"
+    },
+    {
+        "key": "Spam",
+        "value": "Nhiều email, không ai thích"
+    },
+    {
+        "key": "Denial of Service",
+        "value": "Một loại tấn công phổ biến"
+    },
+    {
+        "stt": "Bảng B",
+        "key": "Ethernet",
+        "value": "Mạng lan mà có dây?"
+    },
+    {
+        "key": "Dreamweaver",
+        "value": "Công cụ phát triển web độc quyền của Adobe"
+    },
+    {
+        "key": "Google map",
+        "value": "Công cụ tìm đường nổi tiếng nhất"
+    },
+    {
+        "key": "Validation"
+    },
+    {
+        "key": "Padding",
+        "value": "Không phải margin"
+    },
+    {
+        "key": "Driver",
+        "value": "cài cái gì để hoạt động được?"
+    },
+    {
+        "key": "Front end",
+        "value": "Không phải đằng sau"
+    },
+    {
+        "key": "Exception",
+        "value": "Try catch cái gì?"
+    },
+    {
+        "key": "Broadcast",
+        "value": 255255255255
+    },
+    {
+        "key": "Bookmark",
+        "value": "Lướt web mà muốn lưu lại trang web đó, gắn dấu * trên trình duyệt"
+    },
+    {
+        "key": "Primary key",
+        "value": "Trong database, cái gì để chỉ sự độc nhất của 1 cột"
+    },
+    {
+        "key": "Anonymous",
+        "value": "Một nhóm hacker nổi tiếng"
+    },
+    {
+        "key": "Histogram"
+    },
+    {
+        "key": "Instagram",
+        "value": "Mxh ngắm gái"
+    },
+    {
+        "key": "Proxy",
+        "value": "Cái mà khi kết nối mạng thì nó sẽ làm trung gian, như kiểu vpn"
+    },
+    {
+        "key": "Certificate",
+        "value": "Cái tờ giấy thi để nhận đc"
+    },
+    {
+        "key": "Virus",
+        "value": "Con gì phá hoại máy tính"
+    },
+    {
+        "key": "Single sign on"
+    },
+    {
+        "key": "Taskbar",
+        "value": "Cái ở dưới cùng của màn hình windows giúp hiển thị mấy cái đang chạy"
+    },
+    {
+        "key": "Group by",
+        "value": "Truy vấn trong SQL, select from where rồi gì"
+    },
+    {
+        "key": "Speaker",
+        "value": "Thi tiếng anh có 4 kĩ năng"
+    },
+    {
+        "key": "Bitmap",
+        "value": "Một cách lưu trữ ảnh hay dùng (bit -> nhỏ hơn byte)"
+    },
+    {
+        "key": "Socket",
+        "value": "Đồ án mạng máy tính"
+    },
+    {
+        "key": "Keylogger",
+        "value": "Cái mà để ăn cắp các thao tác gõ của người bị tấn công?\n Muốn mở ổ khoá thì cần có gì? "
+    },
+    {
+        "key": "icon"
+    },
+    {
+        "key": "Joint Photographic Group"
+    },
+    {
+        "key": "Portable Network Graphic",
+        "value": "Một loại ảnh không phải JPG"
+    },
+    {
+        "key": "Packet",
+        "value": "WhiteShark bắt cái gì"
+    },
+    {
+        "key": "Override",
+        "value": "Không phải overload"
+    },
+    {
+        "key": "Cylinder",
+        "value": "Trong môn HDH, một sữa ông thọ hình gì?"
+    },
+    {
+        "stt": "Bảng C",
+        "key": "Python",
+        "value": "Ngôn ngữ lập trình chuyên dùng cho làm AI"
+    },
+    {
+        "key": "Microsoft word",
+        "value": "Phần mềm soạn thảo văn bản nổi tiếng"
+    },
+    {
+        "key": "Eclipse",
+        "value": "IDE cho java của không phải intellij"
+    },
+    {
+        "key": "Pascal",
+        "value": "Ngôn ngữ lập trình học hồi cấp 3"
+    },
+    {
+        "key": "unsupervised learning"
+    },
+    {
+        "key": "Qualcomm",
+        "value": "Hãng sản xuất chip snapdragon"
+    },
+    {
+        "key": "Depth camera"
+    },
+    {
+        "key": "App store",
+        "value": "CHplay của ios"
+    },
+    {
+        "key": "Composite",
+        "value": "Một mẫu design pattern, áp dụng cho mấy cái folder, tree"
+    },
+    {
+        "key": "Golang",
+        "value": "Ngôn ngữ của GG, làm BE"
+    },
+    {
+        "key": "Sublime",
+        "value": "Cái gì tương tự VS code, trừ trong tiếng anh là gì"
+    },
+    {
+        "key": "Eucllid",
+        "value": "Tiên đề về 2 đường thẳng song song"
+    },
+    {
+        "key": "SnapDragon",
+        "value": "Chip của ĐTh mà ko phải exynos"
+    },
+    {
+        "key": "Cross Platform",
+        "value": "Chạy được android, ios,..."
+    },
+    {
+        "key": "Google play"
+    },
+    {
+        "key": "Singleton",
+        "value": "Mẫu design pattern mà chỉ cho tạo 1 đối tượng"
+    },
+    {
+        "key": "Visual studio",
+        "value": " IDE hay dùng code C++ dùng hồi năm 1"
+    },
+    {
+        "key": "Dropbox",
+        "value": "Giống google drive"
+    },
+    {
+        "key": "Java",
+        "value": "Ngôn ngữ để làm Android"
+    },
+    {
+        "key": "Cross side scripting",
+        "value": "một lỗ hổng phổ biến trong ứng dụng web"
+    },
+    {
+        "key": "Intel",
+        "value": "Hãng sản xuất chip cho laptop, i5 i7"
+    },
+    {
+        "key": "Recycle bin",
+        "value": "Trong windows nơi mà tập tin sẽ nằm sau khi xoá"
+    },
+    {
+        "key": "Amazon",
+        "value": "Jeff bezos, logo từ a-z"
+    },
+    {
+        "key": "Universal Serial Bus"
+    },
+    {
+        "key": "Observer",
+        "value": "Mẫu design pattern mà hay dùng trong mấy cái listener"
+    },
+    {
+        "stt": "Bảng D",
+        "key": "Fishing",
+        "value": "Giả trang web khác để người dùng nhập thông tin vào"
+    },
+    {
+        "key": "Segment"
+    },
+    {
+        "key": "Floating point"
+    },
+    {
+        "key": "Embedded"
+    },
+    {
+        "key": "Subnet"
+    },
+    {
+        "key": "Android",
+        "value": "Không phải ios"
+    },
+    {
+        "key": "Search engine",
+        "value": "Yahoo, google, bing,..."
+    },
+    {
+        "key": "Multicore"
+    },
+    {
+        "key": "Startup",
+        "value": "Chương trình sharktank"
+    },
+    {
+        "key": "Kindle",
+        "value": "Máy đọc sách của amazon"
+    },
+    {
+        "key": "Digital signature",
+        "value": "Không phải analog"
+    },
+    {
+        "key": "Kaspersky",
+        "value": "Phần mềm diệt virus, không phải của bkav"
+    },
+    {
+        "key": "Packet",
+        "value": "WhiteShark bắt cái gì"
+    },
+    {
+        "key": "Gateway"
+    },
+    {
+        "key": "Sync",
+        "value": "Trong js, await"
+    },
+    {
+        "key": "tablet"
+    },
+    {
+        "key": "Magnifier",
+        "value": "Trong windows khi bấm phím start và phím + - thì mở cái gì"
+    },
+    {
+        "key": "Moodle"
+    },
+    {
+        "key": "Client"
+    },
+    {
+        "key": "Debug",
+        "value": "Đặt break point để làm gì"
+    },
+    {
+        "key": "Internet service provider",
+        "value": "Viettel, FPT,..."
+    },
+    {
+        "stt": "Chung kết",
+        "key": "Interface",
+        "value": "Implement cái gì?"
+    },
+    {
+        "key": "Default gateway"
+    },
+    {
+        "key": "Hardware",
+        "value": "Cái gì trong máy tính mà cầm nắm đc"
+    },
+    {
+        "key": "Smart home"
+    },
+    {
+        "key": "Hyperlink",
+        "value": "Thẻ a trong html"
+    },
+    {
+        "key": "Steganography",
+        "value": "Kỹ thuật giấu tin hay kỹ thuật giấu thư, kỹ thuật ẩn mã"
+    },
+    {
+        "key": "Relational algebra"
+    },
+    {
+        "key": "Software development kit"
+    },
+    {
+        "key": "Overwatch"
+    },
+    {
+        "key": "Condition",
+        "value": "If else"
+    },
+    {
+        "key": "Memory"
+    },
+    {
+        "key": "Internet protocol"
+    },
+    {
+        "key": "Order by"
+    },
+    {
+        "key": "Graphic card"
+    },
+    {
+        "key": "Crypology"
+    },
+    {
+        "key": "Integration development environment"
+    },
+    {
+        "key": "Query"
+    },
+    {
+        "key": "Assembly"
+    },
+    {
+        "key": "Forein key"
+    },
+    {
+        "key": "Domain name"
+    },
+    {
+        "key": "Hologram"
+    },
+    {
+        "key": "Buffer overflow"
+    },
+    {
+        "key": "Stored procedure"
+    },
+    {
+        "key": "Application Programming Interface",
+        "value": " "
+    },
+    {
+        "key": "Nitendo switch"
+    },
+    {
+        "key": "Static huffman compression"
+    },
+    {
+        "stt": "Bán kết 2",
+        "key": "Define",
+        "value": "hằng trong C++"
+    },
+    {
+        "key": "Process",
+        "value": "Lớn hơn thread"
+    },
+    {
+        "key": "Stored procedure"
+    },
+    {
+        "key": "transmission control protocol"
+    },
+    {
+        "key": "Constant"
+    },
+    {
+        "key": "Touchpad"
+    },
+    {
+        "key": "antenna"
+    },
+    {
+        "key": "Data Encrytion Standar"
+    },
+    {
+        "key": "Hidden layer"
+    },
+    {
+        "key": "Fortran",
+        "value": "Ngôn ngữ cấp cao đầu tiên"
+    },
+    {
+        "key": "Pragma"
+    },
+    {
+        "key": "Layout"
+    },
+    {
+        "key": "Address resolution protocol"
+    },
+    {
+        "key": "Temporal data"
+    },
+    {
+        "key": "Variable"
+    },
+    {
+        "key": "Smart car"
+    },
+    {
+        "key": "Message authentication code"
+    },
+    {
+        "key": "raspberry pi"
+    },
+    {
+        "key": "log likelihood"
+    },
+    {
+        "key": "Linux"
+    },
+    {
+        "key": "macro"
+    },
+    {
+        "key": "Cable"
+    },
+    {
+        "key": "Relational table"
+    },
+    {
+        "key": "Radio"
+    },
+    {
+        "key": "Funtion"
+    },
+    {
+        "key": "request for comment"
+    },
+    {
+        "key": "embedded system"
+    },
+    {
+        "key": "back propagation"
+    },
+    {
+        "key": "message digest algorithm"
+    },
+    {
+        "key": "Unity"
+    },
+    {
+        "stt": "Bán kết 3",
+        "key": "Loop",
+        "value": "Vòng for"
+    },
+    {
+        "key": "unreal engine"
+    },
+    {
+        "key": "Trigger"
+    },
+    {
+        "key": "message digest"
+    },
+    {
+        "key": "parity bit"
+    },
+    {
+        "key": "Scanner"
+    },
+    {
+        "key": "Deep learning"
+    },
+    {
+        "key": "Shortest job first"
+    },
+    {
+        "key": "Captcha"
+    },
+    {
+        "key": "Return"
+    },
+    {
+        "key": "Attribute"
+    },
+    {
+        "key": "Play Station"
+    },
+    {
+        "key": "Sematic web"
+    },
+    {
+        "key": "Projector"
+    },
+    {
+        "key": "Secure shell"
+    },
+    {
+        "key": "artificial intelligence"
+    },
+    {
+        "key": "human computer interaction"
+    },
+    {
+        "key": "Padding"
+    },
+    {
+        "key": "least recently used"
+    },
+    {
+        "key": "Code"
+    },
+    {
+        "key": "Flappy bird"
+    },
+    {
+        "key": "Packet switching"
+    },
+    {
+        "key": "Pointer"
+    },
+    {
+        "key": "Stream cipher"
+    },
+    {
+        "key": "Calculator"
+    },
+    {
+        "key": "Game theory"
+    },
+    {
+        "key": "Semaphore"
+    },
+    {
+        "key": "Content management system"
+    },
+    {
+        "stt": "Bảng F",
+        "key": "Microsoft Surface"
+    },
+    {
+        "key": "Spark"
+    },
+    {
+        "key": "Authorization"
+    },
+    {
+        "key": "\bDijsktra"
+    },
+    {
+        "key": "Apriori Rule"
+    },
+    {
+        "key": "User Datagram Protocol"
+    },
+    {
+        "key": "List View"
+    },
+    {
+        "key": "Photoshop"
+    },
+    {
+        "key": "Tinder"
+    },
+    {
+        "key": "Struct"
+    },
+    {
+        "key": "Apple Watch"
+    },
+    {
+        "key": "Hadoop"
+    },
+    {
+        "key": "Privacy"
+    },
+    {
+        "key": "Bellman-Ford"
+    },
+    {
+        "key": "Random Forest"
+    },
+    {
+        "key": "Open Systems Interconnection"
+    },
+    {
+        "key": "Combo Box"
+    },
+    {
+        "key": "Paint"
+    },
+    {
+        "key": "Tiktok"
+    },
+    {
+        "key": "Samsung Gear"
+    },
+    {
+        "key": "ZooKeeper"
+    },
+    {
+        "key": "Integrity"
+    },
+    {
+        "key": "MapReduce"
+    },
+    {
+        "key": "Decision Tree"
+    },
+    {
+        "key": "Network address translation"
+    },
+    {
+        "key": "Sidebar"
+    },
+    {
+        "stt": "Bảng G",
+        "key": "typedef"
+    },
+    {
+        "key": "Mainboard"
+    },
+    {
+        "key": "World Wide Web"
+    },
+    {
+        "key": "JavaScript"
+    },
+    {
+        "key": "Google Drive"
+    },
+    {
+        "key": "Fibonacci"
+    },
+    {
+        "key": "Security"
+    },
+    {
+        "key": "Firebase"
+    },
+    {
+        "key": "Docker"
+    },
+    {
+        "key": "First In Last Out"
+    },
+    {
+        "key": "Pinterest"
+    },
+    {
+        "key": "Expert Systems"
+    },
+    {
+        "key": "Framework"
+    },
+    {
+        "key": "Debugger"
+    },
+    {
+        "key": "Pascal"
+    },
+    {
+        "key": "Argument"
+    },
+    {
+        "key": "Test case"
+    },
+    {
+        "key": "Caps Lock"
+    },
+    {
+        "stt": "Bảng H",
+        "key": "button"
+    },
+    {
+        "key": "Steam"
+    },
+    {
+        "key": "Social Network"
+    },
+    {
+        "key": "Intranet"
+    },
+    {
+        "key": "Coursera"
+    },
+    {
+        "key": "Github"
+    },
+    {
+        "key": "malware"
+    },
+    {
+        "key": "Common Language Runtime"
+    },
+    {
+        "key": "Webcam"
+    },
+    {
+        "key": "Garena"
+    },
+    {
+        "key": "Workstation"
+    },
+    {
+        "key": "Neural Network"
+    },
+    {
+        "key": "kernel"
+    },
+    {
+        "key": "Macbook Pro"
+    },
+    {
+        "key": "encapsulation"
+    },
+    {
+        "key": "Big Endian"
+    },
+    {
+        "key": "wireshark"
+    },
+    {
+        "key": "Global Positioning System"
+    },
+    {
+        "key": "Streamer"
+    },
+    {
+        "key": "Battery"
+    },
+    {
+        "key": "League of Legends"
+    },
+    {
+        "key": "Token"
+    },
+    {
+        "key": "Master Boot Record"
+    },
+    {
+        "key": "Udemy"
+    },
+    {
+        "key": "Javascript"
+    },
+    {
+        "key": "World Wide Web"
+    },
+    {
+        "key": "Kinect"
+    },
+    {
+        "key": "Zalo"
+    },
+    {
+        "key": "Compiler"
+    },
+    {
+        "stt": "Bảng I",
+        "key": "Kotlin"
+    },
+    {
+        "key": "Terminal"
+    },
+    {
+        "key": "Wikipedia"
+    },
+    {
+        "key": "throughput"
+    },
+    {
+        "key": "Software Requirement Specification"
+    },
+    {
+        "key": "exception"
+    },
+    {
+        "key": "breadth first search"
+    },
+    {
+        "key": "scala"
+    },
+    {
+        "key": "Swing"
+    },
+    {
+        "key": "Computer Security"
+    },
+    {
+        "key": "Swift"
+    },
+    {
+        "key": "Ipad Air"
+    },
+    {
+        "key": "Shell Sort"
+    },
+    {
+        "key": "Google Cardboard"
+    },
+    {
+        "key": "Node-Red"
+    },
+    {
+        "key": "Product Owner"
+    },
+    {
+        "key": "Waterfall"
+    },
+    {
+        "key": "Object-relational mapping"
+    },
+    {
+        "key": "mouse"
+    },
+    {
+        "key": "bandwidth"
+    },
+    {
+        "key": "Binary Search"
+    },
+    {
+        "key": "Arduino"
+    },
+    {
+        "key": "Augmented Reality"
+    },
+    {
+        "key": "Risk management"
+    },
+    {
+        "key": "Optical character recognition"
+    },
+    {
+        "key": "runtime error"
+    },
+    {
+        "key": "autoclick"
+    },
+    {
+        "key": "stdio"
+    },
+    {
+        "key": "Common Business-Oriented Language (COBOL)"
+    },
+    {
+        "key": "Cookie"
+    },
+    {
+        "key": "Microcomputer"
+    },
+    {
+        "key": "Vlog"
+    },
+    {
+        "key": "Cryptography"
+    },
+    {
+        "key": "Cursor"
+    },
+    {
+        "key": "Registry"
+    },
+    {
+        "key": "XHTML"
+    },
+    {
+        "key": "Unicode"
+    },
+    {
+        "key": "Terabyte"
+    },
+    {
+        "key": "Worksheet"
+    },
+    {
+        "key": "Number"
+    },
+    {
+        "key": "Central"
+    },
+    {
+        "key": "Processing Unit"
+    },
+    {
+        "key": "Encryption"
+    },
+    {
+        "key": "Genetic Algorithm"
+    },
+    {
+        "key": "Door"
+    },
+    {
+        "key": "Plug-and-Play"
+    },
+    {
+        "key": "Parallel"
+    },
+    {
+        "key": "Processing"
+    },
+    {
+        "key": "Keylogger"
+    },
+    {
+        "key": "DDOS"
+    },
+    {
+        "key": "ADSL"
+    },
+    {
+        "key": "DDOS"
+    },
+    {
+        "key": "Search Engine"
+    },
+    {
+        "key": "Domain Name"
+    },
+    {
+        "key": "Barcode Scanner"
+    },
+    {
+        "key": "Routine"
+    },
+    {
+        "key": "jquery"
+    },
+    {
+        "key": "Oracle"
+    },
+    {
+        "key": "GPU"
+    },
+    {
+        "key": "Eyetracking"
+    },
+    {
+        "key": "RGB"
+    },
+    {
+        "key": "Wireless Mouse"
+    },
+    {
+        "key": "Microsoft"
+    },
+    {
+        "key": "Discrete Fourier Transform"
+    },
+    {
+        "key": "Merge Sort"
+    },
+    {
+        "key": "Compiler"
+    },
+    {
+        "key": "Debug"
+    },
+    {
+        "key": "Panaroma"
+    },
+    {
+        "key": "Alan Turing"
+    },
+    {
+        "key": "ZIP"
+    },
+    {
+        "key": "Video Card"
+    },
+    {
+        "key": "Apple"
+    },
+    {
+        "key": "Natural Language Processing"
+    },
+    {
+        "key": "Programming language"
+    },
+    {
+        "key": "Doubly Linked List"
+    },
+    {
+        "key": "B Tree"
+    },
+    {
+        "key": "HTTPS"
+    },
+    {
+        "key": "Physical layer"
+    },
+    {
+        "key": "Android wear"
+    },
+    {
+        "key": "FTP"
+    },
+    {
+        "key": "Bluetooth"
+    },
+    {
+        "key": "Google"
+    },
+    {
+        "key": "Near-Field Communications"
+    },
+    {
+        "key": "Over The Top"
+    },
+    {
+        "key": "Stack"
+    },
+    {
+        "key": "Kruskal"
+    },
+    {
+        "key": "HSV"
+    },
+    {
+        "key": "ActionScript"
+    },
+    {
+        "key": "Pureview"
+    },
+    {
+        "key": "Memory card"
+    },
+    {
+        "key": "Full HD"
+    },
+    {
+        "key": "Graphic User Interface"
+    },
+    {
+        "key": "Network layer"
+    },
+    {
+        "key": "float"
+    },
+    {
+        "key": "Copy constructor"
+    },
+    {
+        "key": "Abstract"
+    },
+    {
+        "key": "Include"
+    },
+    {
+        "key": "Chrome"
+    },
+    {
+        "key": "Moderm"
+    },
+    {
+        "key": "Switch"
+    },
+    {
+        "key": "Safari"
+    },
+    {
+        "key": "Rounded Robin"
+    },
+    {
+        "key": "Ethernet"
+    },
+    {
+        "key": "Viber"
+    },
+    {
+        "key": "Steve Ballmer"
+    },
+    {
+        "key": "Sector"
+    },
+    {
+        "key": "Cocos"
+    },
+    {
+        "key": "Shell"
+    },
+    {
+        "key": "Nintendo"
+    },
+    {
+        "key": "Gigabyte"
+    },
+    {
+        "key": "protected"
+    },
+    {
+        "key": "Steve Jobs"
+    },
+    {
+        "key": "Heuristic"
+    },
+    {
+        "key": "Ipconfig"
+    },
+    {
+        "key": "Digital Signal"
+    },
+    {
+        "key": "ActiveX Control"
+    },
+    {
+        "key": "Wide Area Network"
+    },
+    {
+        "key": "HDD"
+    },
+    {
+        "key": "Memory Address"
+    },
+    {
+        "key": "Interrupt"
+    },
+    {
+        "key": "E-book"
+    },
+    {
+        "key": "JavaScript"
+    },
+    {
+        "key": "Network Access Point"
+    },
+    {
+        "key": "Source Code"
+    },
+    {
+        "key": "Syntax Error"
+    },
+    {
+        "key": "Tweet"
+    },
+    {
+        "key": "Virtual Memory"
+    },
+    {
+        "key": "Ajax"
+    },
+    {
+        "key": "File Transfer Protocol"
+    },
+    {
+        "key": "HyperlinkIcon"
+    },
+    {
+        "key": "Icon"
+    },
+    {
+        "key": "NTFS"
+    },
+    {
+        "key": "WhoIs"
+    },
+    {
+        "key": "Recursion"
+    },
+    {
+        "key": "exception"
+    },
+    {
+        "key": "Protocol"
+    },
+    {
+        "key": "Paging"
+    },
+    {
+        "key": "Gigahertz"
+    },
+    {
+        "key": "Dialog"
+    },
+    {
+        "key": "Box"
+    },
+    {
+        "key": "NTFS"
+    },
+    {
+        "key": "Symmetric Key"
+    },
+    {
+        "key": "Bayesian"
+    },
+    {
+        "key": "Networks"
+    },
+    {
+        "key": "NTFS"
+    },
+    {
+        "key": "yum"
+    },
+    {
+        "key": "Polynomial"
+    },
+    {
+        "key": "Dialog"
+    },
+    {
+        "key": "Approximation"
+    },
+    {
+        "key": "Disk Cache"
+    },
+    {
+        "key": "Ratio Button"
+    },
+    {
+        "key": "Authentication"
+    },
+    {
+        "key": "Tomcat"
+    },
+    {
+        "key": "Lookup Table"
+    },
+    {
+        "key": "lspci"
+    },
+    {
+        "key": "Support Vector Machines"
+    },
+    {
+        "key": "CMOS"
+    },
+    {
+        "key": "Combo Box"
+    },
+    {
+        "key": "Key Generation"
+    },
+    {
+        "key": "Pattern Recognition"
+    },
+    {
+        "key": "Hadoop"
+    },
+    {
+        "key": "Stored Procedure"
+    },
+    {
+        "key": "Multilinear subspace learning"
+    },
+    {
+        "key": "apt-get"
+    }
+]
